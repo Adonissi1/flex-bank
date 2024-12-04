@@ -1,0 +1,11 @@
+.dd{
+    
+}
+.nvb{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.kk{
+    border-radius: 100%;
+}
